@@ -1,3 +1,6 @@
 - url: https://agdlp.vercel.app/
   output: agdlp.png
   height: 800
+- url: https://benevolent-crostata-ec4ad8.netlify.app/
+  output: lpagd.png
+  height: 1080
